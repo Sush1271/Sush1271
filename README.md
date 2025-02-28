@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sush1271&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
-    <img src="[https://capsule-render.vercel.app/api?type=waving&height=120&color=ff80bf&section=footer&textBg=false&descAlign=94&descAlignY=100&fontAlign=100&fontAlignY=0&fontSize=0&fontColor=ff80bf](https://capsule-render.vercel.app/api?type=waving&height=150&color=dd99ff&text=Thank%20You&section=footer&animation=fadeIn&fontColor=ff4dff&fontAlignY=69&reversal=true)">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff80bf&section=footer&textBg=false&descAlign=94&descAlignY=100&fontAlign=100&fontAlignY=0&fontSize=0&fontColor=ff80bf](https://capsule-render.vercel.app/api?type=waving&height=150&color=dd99ff&text=Thank%20You&section=footer&animation=fadeIn&fontColor=ff4dff&fontAlignY=69&reversal=true">
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -3,7 +3,7 @@
 ![Capsule Banner](https://capsule-render.vercel.app/api?type=waving&color=ad2ded&height=120&section=header)
 
 <p align="center">
-  <img src="./miku.gif" width="80%">
+  <img src="./miku.gif" width="100%">
 </p>
 
 ```ts

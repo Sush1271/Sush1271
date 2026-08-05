@@ -2,6 +2,10 @@
 
 ![Capsule Banner](https://capsule-render.vercel.app/api?type=waving&color=ad2ded&height=120&section=header)
 
+<p align="center">
+  <img src="./miku.gif" width="80%">
+</p>
+
 ```ts
 const Sushant = {
   role: "Full Stack Developer",

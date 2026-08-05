@@ -1,6 +1,4 @@
-<h1 align="center">Sushant</h1>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=39C5BB&center=true&vCenter=true&width=800&lines=I'm+a+Full+Stack+Developer;I'm+a+Linux+Enthusiast;I'm+a+DevOps+Explorer;I'm+an+AI%2FML+Enthusiast;I+use+Arch+btw+%F0%9F%90%A7)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="./miku.gif" width="80%">

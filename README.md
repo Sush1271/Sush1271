@@ -1,9 +1,9 @@
 <h1 align="center">Sushant</h1>
 
-![Capsule Banner](https://capsule-render.vercel.app/api?type=waving&color=ad2ded&height=120&section=header)
+
 
 <p align="center">
-  <img src="./miku.gif" width="100%">
+  <img src="./miku.gif" width="80%">
 </p>
 
 ```ts

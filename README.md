@@ -37,7 +37,7 @@ const Sushant = {
     "osu!",
     "Rhythm Games",
     "Open Source",
-  ],
+  ]
 };
 ```
 <h3>

@@ -50,9 +50,10 @@ const Sushant = {
 <h3>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
        width="35"
-       align="bottom">
+       align="middle">
   GitHub Stats:
 </h3>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Sush1271&theme=dark&hide_border=false" height="200" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sush1271&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200" hspace="5" />

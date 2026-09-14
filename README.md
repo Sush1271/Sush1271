@@ -40,7 +40,12 @@ const Sushant = {
   ],
 };
 ```
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35" > Tech Stack:
+<h3>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+       width="35"
+       align="middle">
+  Tech Stack:
+</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,python,golang,html,css,tailwind,arch,bash)](https://skillicons.dev)
 

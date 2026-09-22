@@ -70,4 +70,5 @@ const Sushant = {
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sush1271&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200" hspace="5" />
 </div>
 
- <h1 align="center">"Curious by nature. Building by choice."</h1>
+ <h1 align="center">"A clever person solves a problem. A wise person avoids it."</h1>
+ 
